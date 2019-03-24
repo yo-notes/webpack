@@ -27,10 +27,6 @@
 
 [5. webpack 优化](./notes/5.optimize/)
 
-[6. 项目规范(lint、测试)](./notes/6.lint-test/)
-
-[7. 项目规范(其它)](./notes/7.others/)
-
 ## 参考
 
 1. webpack book: https://survivejs.com/webpack/foreword/
